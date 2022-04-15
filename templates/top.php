@@ -12,8 +12,8 @@
 <body>
 <div class="header">
     <h1 class="logotext"> Nig </h1>
-    <a href="#" > Login </a>
-    <a href="#" > Register </a>
+    <a href="/login.php" > Login </a>
+    <a href="/register.php" > Register </a>
     <img class="logo" src="Media/img/logo.png"/>
 </div>
 <div class="menu">
