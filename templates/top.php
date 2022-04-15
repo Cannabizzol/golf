@@ -11,7 +11,9 @@
 </head>
 <body>
 <div class="header">
-    <h1 class="logotext"> Niggers </h1>
+    <h1 class="logotext"> Nig </h1>
+    <a href="#" > Login </a>
+    <a href="#" > Register </a>
     <img class="logo" src="Media/img/logo.png"/>
 </div>
 <div class="menu">
